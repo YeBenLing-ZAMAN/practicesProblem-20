@@ -13,3 +13,11 @@
 .text-color{
     color: white;
 }
+
+/* menu hover */
+
+.menu-hover:hover{
+    background-color: #fff;
+    color: black;
+    transition: .8s;
+}
