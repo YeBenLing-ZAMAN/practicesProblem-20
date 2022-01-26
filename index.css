@@ -1,0 +1,11 @@
+
+
+.bannar{
+    height:  calc(100vh - 105px);
+    width: 100vw;
+
+    background-image: url(./images/home-img.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
