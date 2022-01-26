@@ -27,3 +27,19 @@
 .filled{
     color: gold;
 }
+
+
+/* google map  */
+
+.maps{
+    overflow:hidden;
+}
+
+.gmap_canvas {
+    overflow:hidden;
+    background:none!important;
+}
+.mapouter {
+    position: relative;
+    text-align: right;
+  }
